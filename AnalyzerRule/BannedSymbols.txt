@@ -1,0 +1,4 @@
+// DateTime ‚Ì—˜—p‚ð‹ÖŽ~‚·‚é—á
+T:System.DateTime
+// Environment.NewLine ‚Ì—˜—p‚ð‹ÖŽ~‚·‚é—á
+P:System.Environment.NewLine
